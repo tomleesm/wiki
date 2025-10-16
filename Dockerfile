@@ -1,7 +1,8 @@
 FROM node:latest
-WORKDIR /app
-VOLUME /app/content
+WORKDIR /home/node
+VOLUME /home/node/content
 EXPOSE 8080
+USER node
 RUN git clone https://github.com/jackyzha0/quartz.git tmp
 RUN cd tmp && rm -rf content && mv -f * ../ && cd .. && rm -rf tmp
 RUN npm ci

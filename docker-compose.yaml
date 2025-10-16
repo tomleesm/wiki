@@ -2,7 +2,7 @@ services:
   wiki:
     build: .
     volumes:
-      - ./content:/app/content
+      - ./content:/home/node/content
     ports:
       - 8080:8080
     restart: unless-stopped
