@@ -3,6 +3,7 @@ services:
     build: .
     volumes:
       - ./content:/home/node/content
+      - ./public:/tmp/public
     ports:
       - 8080:8080
     restart: unless-stopped
