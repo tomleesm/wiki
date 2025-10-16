@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>你好</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ 測試中文 . ]]></description>
+    <pubDate>Thu, 16 Oct 2025 15:29:54 GMT</pubDate>
+  </item><item>
+    <title>測試中文</title>
+    <link>https://quartz.jzhao.xyz/%E6%B8%AC%E8%A9%A6%E4%B8%AD%E6%96%87</link>
+    <guid>https://quartz.jzhao.xyz/%E6%B8%AC%E8%A9%A6%E4%B8%AD%E6%96%87</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 16 Oct 2025 10:01:30 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
